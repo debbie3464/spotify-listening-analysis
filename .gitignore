@@ -214,6 +214,11 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Raw Spotify export (personal data)
+data/
+StreamingHistory_music_*.json
+Streaming_History_Audio_*.json
 __marimo__/
 
 # Streamlit
